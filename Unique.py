@@ -5,7 +5,6 @@ Return a list of all unique words. You may return the list in any order.
  Example 1: Input: A = "this apple is sweet", B = "this apple 
 is sour" Output: ["sweet","sour"] Example 2: Input: A = "apple apple", B = "banana" Output: ["banana"]
 
-brian.m.sipe@boeing.com
 
 # Online Python Playground
 # Use the online IDE to write, edit & run your Python code
